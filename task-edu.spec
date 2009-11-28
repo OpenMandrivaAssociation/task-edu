@@ -1,7 +1,7 @@
 
 %define name task-edu
 %define version 0.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: Task packages for games
 Name: %{name}
@@ -16,6 +16,7 @@ Suggests: kdeedu4
 Suggests: kdegames4
 Suggests: semantik
 Suggests: tuxpaint
+Suggests: tuxpaint-stamps
 Suggests: scribus
 Suggests: celestia
 Suggests: stellarium
