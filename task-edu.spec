@@ -1,7 +1,7 @@
 
 %define name task-edu
 %define version 1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: Task packages for games
 Name: %{name}
