@@ -9,7 +9,7 @@ Version: %{version}
 Release: %{release}
 License: GPL
 Group:   Education
-Url: http://wiki.mandriva.com/en/Docs
+Url: https://wiki.mandriva.com/en/Docs
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 Suggests: kdeedu4
